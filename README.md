@@ -8,6 +8,7 @@ tested on Debian 12 Bookworm
 ### requires:
 
 node.js (https://github.com/nodesource/distributions)
+
 typescript (https://www.typescriptlang.org/download)
 
 ### usage:
