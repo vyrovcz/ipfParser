@@ -3,7 +3,7 @@
 simple experimental parser for unstructured network device outputs.
 Converts network device state dumps into JSON format.
 
-tested on Debian 12 Bookworm
+tested on Debian 12 Bookworm and Ubuntu 20.04 with Node 21x
 
 ### requires:
 
