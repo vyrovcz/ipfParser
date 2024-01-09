@@ -9,7 +9,7 @@ tested on Debian 12 Bookworm
 
 node.js (https://github.com/nodesource/distributions)
 
-typescript (https://www.typescriptlang.org/download)
+(typescript if you want to compile yourself, precompiled .js you can find in ./out)  (https://www.typescriptlang.org/download)
 
 ### usage:
 
